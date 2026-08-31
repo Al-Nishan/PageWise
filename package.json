@@ -1,0 +1,12 @@
+{
+  "name": "pagewise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A scoped collaborative document editor assignment",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}

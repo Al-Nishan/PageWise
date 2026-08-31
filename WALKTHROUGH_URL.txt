@@ -1,0 +1,8 @@
+Walkthrough video URL: PASTE_UNLISTED_LOOM_OR_YOUTUBE_URL_HERE
+
+Suggested 3–5 minute outline:
+1. Show the default Maya workspace and create a document.
+2. Apply bold, underline, a heading, and a list; save and reopen it.
+3. Import a small .txt or .md file.
+4. Share a Maya document with Sana, switch to Sana, and show Shared with me/read-only access.
+5. Explain JSON persistence, the focused 4–6 hour scope, and AI-assisted workflow/verification.
